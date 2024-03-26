@@ -1,8 +1,7 @@
 "use client"
 
 import Link from "next/link";
-import SignUp from "./SignUp/page";
-import Login from "./Components/Login";
+
 
 export default function Home() {
   return (
